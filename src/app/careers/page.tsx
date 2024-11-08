@@ -5,10 +5,12 @@ export const metadata: Metadata = {
     title: "Growth mindset. Curious. Innovative. Sounds like you?",
     description:
       "Embark on a journey that goes beyond just a job. At Leapfrog, you will get an environment that fosters growth, learning, and collaboration. A place which values diverse perspectives, accountable freedom, pushes you to reach your new height, and celebrates both small and big wins.",
-    images: {
-      url: "/careers-banner-3x.webp",
-      alt: "Alternate text",
-    },
+    images: [
+      {
+        url: "/careers-banner-3x.webp",
+        alt: "Alternate text",
+      },
+    ],
   },
 };
 
