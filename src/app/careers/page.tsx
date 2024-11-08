@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Image from "next/image";
 
 export const metadata: Metadata = {
   openGraph: {
@@ -18,6 +19,13 @@ const Careers = () => {
   return (
     <>
       <div className="text-center">
+        <Image
+          className="rounded-full"
+          src={"/careers-banner-3x.webp"}
+          width={800}
+          height={800}
+          alt="Alternate text"
+        />
         <h1>this is careers pages.</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, nisi?
