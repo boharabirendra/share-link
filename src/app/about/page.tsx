@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   description:
     "Unlocking Innovation and Technology: 450+ experts crafting your ideas into user-friendly products. Drive your growth with us.",
   openGraph: {
-    // title: "Trusted technology partner | Leapfrog Technology",
-    // description:
-    //   "Unlocking Innovation and Technology: 450+ experts crafting your ideas into user-friendly products. Drive your growth with us.",
+    title: "Trusted technology partner | Leapfrog Technology",
+    description:
+      "Unlocking Innovation and Technology: 450+ experts crafting your ideas into user-friendly products. Drive your growth with us.",
     images: [
       {
-        url: "/share_image.jpg",
+        url: "/share-about.jpg",
         alt: "Alternate text",
       },
     ],
