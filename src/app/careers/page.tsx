@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import Image from "next/image";
 
-export const metadata: Metadata = {
+export const metadata = {
   openGraph: {
     title: "Growth mindset. Curious. Innovative. Sounds like you?",
     url: "https://share-link-six.vercel.app/careers",
